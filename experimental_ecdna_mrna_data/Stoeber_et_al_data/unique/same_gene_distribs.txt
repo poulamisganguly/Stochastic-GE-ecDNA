@@ -1,0 +1,40 @@
+CHP212
+    MYCN
+        DDX1, GREB1, LPIN1, MYCN, TRIB2
+        NTSR2
+
+IMR575
+    HSR
+        ALK
+        ANTXR1
+        DDX1, FAM84A, MYCN, NBAS
+        ETAA1
+        GKN1
+        GKN2
+        MEIS1
+
+Kelly
+    HSR
+        FAM49A
+        MYCN
+
+TR14
+    CDK4
+        AGAP2-AS1
+        AGAP2
+        ATP2A2
+        AVIL
+        CDK4, CTDSP2, MARCH9, METTL1, OS9, TSFM, TSPAN31
+        CYP27B1
+        IFT81
+        METTL21B
+    MDM2
+        BEST3
+        CCT2
+        CPM, CPSF6, FRS2, LYZ, MDM2, NUP107, RAP1B, SLC35E3, YEATS4
+        LRRC10
+    MYCN gene
+        MYCN
+    MYCN
+        MYT1L
+        TRAPPC12
