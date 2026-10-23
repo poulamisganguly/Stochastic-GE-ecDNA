@@ -16,7 +16,9 @@ The required dependencies for this project are specified in the file `env_spec.t
 
 ## Usage
 
-Start by creating a `conda` virtual environment by running
+Folders with simulated mRNA distributions have been compressed (simulated_ecdna_data/mrna_dists.zip and experimental_ecdna_mrna_data/Stoeber_et_al_sims.zip). In order to run the code in example_code.ipynb these folders must be unzipped first.
+
+Start by navigating to the main folder and creating a `conda` virtual environment by running
 
     conda create --name gene-exp --file env_spec.txt
     
